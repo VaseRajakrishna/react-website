@@ -1,0 +1,15 @@
+.max-width-ctnr{
+    max-width: 1000px;
+}
+.contact-section{
+    padding-top:70px;
+    padding-bottom:40px;
+    background-image: url(../ContactSection/images/contact-bg.png);
+}
+textarea{
+    height: 150px;
+    resize: none;
+}
+.form-ctnr h2,.form-ctnr p{
+color: #ffffff;
+}

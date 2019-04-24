@@ -1,0 +1,14 @@
+footer{
+    padding-top:25px;
+    background:#171513;
+    color: #616161;
+}
+footer span a{
+    color: #bdbdbd;
+    margin-right: 5px;
+}
+@media (max-width:768px){
+    .m-txt-center{
+        text-align: center !important;
+    }
+}

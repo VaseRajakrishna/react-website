@@ -1,0 +1,28 @@
+.app-nav{
+    background: #171513 !important;
+}
+.app-nav-btn{
+    min-width: 170px !important;
+    position: relative;
+}
+.span-logo{
+    color: #ee3b00;
+}
+.navbar-toggler{
+    border: none !important;
+}
+.hdr-icon{
+    position: absolute;
+    left: 15px;
+}
+.mobile-btn{
+    background: #ee3b00;
+    color: #ffffff;
+}
+@media (min-width: 992px){
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 2rem;
+    padding-left: 2rem;
+}
+}
